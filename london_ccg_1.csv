@@ -1,0 +1,213 @@
+CCG code;Proposed CCG name;Number of practices;Sum of population;Number of LSOAs;Commissioning Board Region;Current PCT Cluster  ;Indicative Running cost allowance £m
+07L;NHS Barking & Dagenham CCG;42;196 400;109;London;NHS North East London and The City Cluster;4,81
+07M;NHS Barnet CCG;71;372 200;210;London;NHS North Central London PCT Cluster;9,32
+07N;NHS Bexley CCG;29;229 200;146;London;NHS South East London PCT Cluster;5,61
+07P;NHS Brent CCG;72;355 400;174;London;NHS North West London PCT Cluster;7,29
+07Q;NHS Bromley CCG;51;326 200;197;London;NHS South East London PCT Cluster;8,17
+07R;NHS Camden CCG;41;250 900;133;London;NHS North Central London PCT Cluster;6,3
+09A;NHS Central London (Westminster) CCG;41;195 100;88;London;NHS North West London PCT Cluster;5,02
+07T;NHS City and Hackney CCG;47;280 100;142;London;NHS North East London and The City Cluster;6,23
+07V;NHS Croydon CCG;63;380 500;220;London;NHS South West London PCT Cluster;8,81
+07W;NHS Ealing CCG;82;391 400;195;London;NHS North West London PCT Cluster;8,78
+07X;NHS Enfield CCG;64;296 000;181;London;NHS North Central London PCT Cluster;7,5
+08A;NHS Greenwich CCG;46;274 700;143;London;NHS South East London PCT Cluster;6,14
+08C;NHS Hammersmith and Fulham CCG;31;193 000;111;London;NHS North West London PCT Cluster;4,27
+08D;NHS Haringey CCG;61;276 200;144;London;NHS North Central London PCT Cluster;6,62
+08E;NHS Harrow CCG;36;240 600;137;London;NHS North West London PCT Cluster;5,58
+08F;NHS Havering CCG;53;256 300;149;London;NHS North East London and The City Cluster;6,35
+08G;NHS Hillingdon CCG;49;276 300;163;London;NHS North West London PCT Cluster;6,74
+07Y;NHS Hounslow CCG;55;270 000;139;London;NHS North West London PCT Cluster;6,31
+08H;NHS Islington CCG;43;216 200;118;London;NHS North Central London PCT Cluster;5,28
+08J;NHS Kingston CCG;29;190 400;97;London;NHS South West London PCT Cluster;4,9
+08K;NHS Lambeth CCG;52;377 000;177;London;NHS South East London PCT Cluster;8,01
+08L;NHS Lewisham CCG;49;308 800;166;London;NHS South East London PCT Cluster;7,08
+08R;NHS Merton CCG;26;208 900;124;London;NHS South West London PCT Cluster;5,15
+08M;NHS Newham CCG;64;353 300;159;London;NHS North East London and The City Cluster;7,37
+08N;NHS Redbridge CCG;49;282 000;159;London;NHS North East London and The City Cluster;6,84
+08P;NHS Richmond CCG;32;194 900;114;London;NHS South West London PCT Cluster;4,81
+08Q;NHS Southwark CCG;49;322 300;165;London;NHS South East London PCT Cluster;7,36
+08T;NHS Sutton CCG;29;182 100;121;London;NHS South West London PCT Cluster;4,66
+08V;NHS Tower Hamlets CCG;36;267 600;130;London;NHS North East London and The City Cluster;6,68
+08W;NHS Waltham Forest CCG;48;289 100;145;London;NHS North East London and The City Cluster;6,32
+08X;NHS Wandsworth CCG;46;364 100;174;London;NHS South West London PCT Cluster;8,11
+08Y;NHS West London (Kensington and Chelsea, Queen's Park and Paddington) CCG;55;229 700;135;London;NHS North West London PCT Cluster;5,75
+99E;NHS Basildon and Brentwood CCG;46;262 800;155;Midlands and East;South Essex PCT Cluster;6,33
+06F;NHS Bedfordshire CCG;57;431 900;256;Midlands and East;Bedfordshire and Luton PCT Cluster;10,97
+04W;NHS Birmingham CrossCity CCG;101;589 300;349;Midlands and East;Birmingham and Solihull Cluster;13,75
+04X;NHS Birmingham South and Central CCG;48;242 400;120;Midlands and East;Birmingham and Solihull Cluster;5,66
+06H;NHS Cambridgeshire and Peterborough CCG;110;851 200;489;Midlands and East;Cambridgeshire and Peterborough PCT Cluster;20,25
+04Y;NHS Cannock Chase CCG;29;131 200;82;Midlands and East;Staffordshire Cluster;3,23
+99F;NHS Castle Point and Rochford CCG;27;177 100;110;Midlands and East;South Essex PCT Cluster;4,32
+03V;NHS Corby CCG;6;67 800;37;Midlands and East;Northamptonshire & Milton Keynes PCT Cluster;1,6
+05A;NHS Coventry and Rugby CCG;79;461 700;255;Midlands and East;Arden PCT Cluster;11,28
+05C;NHS Dudley CCG;54;313 300;202;Midlands and East;Black Country PCT Cluster;7,63
+06K;NHS East and North Hertfordshire CCG;60;560 500;325;Midlands and East;Hertfordshire PCT Cluster;14,07
+03W;NHS East Leicestershire and Rutland CCG;34;313 700;192;Midlands and East;Leicestershire PCT Cluster;7,82
+05D;NHS East Staffordshire CCG;19;132 700;75;Midlands and East;Staffordshire Cluster;3,28
+03X;NHS Erewash CCG;13;97 000;62;Midlands and East;Derbyshire PCT Cluster;2,41
+06M;NHS Great Yarmouth & Waveney CCG;27;230 800;134;Midlands and East;NHS Norfolk and Waveney;5,69
+03Y;NHS Hardwick CCG;17;102 200;70;Midlands and East;Derbyshire PCT Cluster;2,52
+05F;NHS Herefordshire CCG;24;181 500;116;Midlands and East;West Mercia PCT Cluster;4,59
+06N;NHS Herts Valleys CCG;70;592 600;347;Midlands and East;Hertfordshire PCT Cluster;14,17
+06L;NHS Ipswich and East Suffolk CCG;42;384 700;228;Midlands and East;Suffolk PCT Cluster;9,43
+04C;NHS Leicester City CCG;65;365 800;187;Midlands and East;Leicestershire PCT Cluster;8,23
+03T;NHS Lincolnshire East CCG;30;240 600;131;Midlands and East;Lincolnshire PCT Cluster;6,05
+04D;NHS Lincolnshire West CCG;38;223 200;133;Midlands and East;Lincolnshire PCT Cluster;5,53
+06P;NHS Luton CCG;32;210 300;121;Midlands and East;Bedfordshire and Luton PCT Cluster;5,06
+04E;NHS Mansfield & Ashfield CCG;32;183 000;120;Midlands and East;Nottinghamshire PCT Cluster;4,47
+06Q;NHS Mid Essex CCG;50;376 400;227;Midlands and East;North Essex PCT Cluster;9,27
+04F;NHS Milton Keynes CCG;28;262 100;143;Midlands and East;Northamptonshire & Milton Keynes PCT Cluster;6,33
+04G;NHS Nene CCG;70;625 700;361;Midlands and East;Northamptonshire & Milton Keynes PCT Cluster;15,43
+04H;NHS Newark & Sherwood CCG;15;127 300;70;Midlands and East;Nottinghamshire PCT Cluster;3,15
+04J;NHS North Derbyshire CCG;39;287 700;174;Midlands and East;Derbyshire PCT Cluster;7,08
+05E;NHS North East Birmingham CCG;19;131 400;81;Midlands and East;Birmingham and Solihull Cluster;3,07
+06T;NHS North East Essex CCG;45;324 300;194;Midlands and East;North Essex PCT Cluster;8,29
+06V;NHS North Norfolk CCG;20;167 000;107;Midlands and East;NHS Norfolk and Waveney;4,19
+05G;NHS North Staffordshire CCG;36;208 700;135;Midlands and East;Staffordshire Cluster;5,2
+06W;NHS Norwich CCG;23;205 200;118;Midlands and East;NHS Norfolk and Waveney;5,03
+04K;NHS Nottingham City CCG;63;340 500;176;Midlands and East;Nottinghamshire PCT Cluster;8,28
+04L;NHS Nottingham North & East CCG;22;144 200;98;Midlands and East;Nottinghamshire PCT Cluster;3,59
+04M;NHS Nottingham West CCG;12;93 300;71;Midlands and East;Nottinghamshire PCT Cluster;2,32
+05J;NHS Redditch and Bromsgrove CCG;24;170 800;109;Midlands and East;West Mercia PCT Cluster;4,13
+04N;NHS Rushcliffe CCG;16;121 400;70;Midlands and East;Nottinghamshire PCT Cluster;3,11
+05L;NHS Sandwell and West Birmingham CCG;115;527 800;278;Midlands and East;Black Country PCT Cluster;12,32
+05N;NHS Shropshire CCG;45;296 300;192;Midlands and East;West Mercia PCT Cluster;7,34
+05P;NHS Solihull CCG;32;234 200;133;Midlands and East;Birmingham and Solihull Cluster;5,64
+05Q;NHS South East Staffs and Seisdon Peninsular CCG;34;209 600;136;Midlands and East;Staffordshire Cluster;5,17
+99D;NHS South Lincolnshire CCG;15;154 900;81;Midlands and East;Lincolnshire PCT Cluster;3,88
+06Y;NHS South Norfolk CCG;26;220 400;144;Midlands and East;NHS Norfolk and Waveney;5,55
+05R;NHS South Warwickshire CCG;36;270 200;155;Midlands and East;Arden PCT Cluster;6,7
+04Q;NHS South West Lincolnshire CCG ;19;128 300;68;Midlands and East;Lincolnshire PCT Cluster;3,22
+05T;NHS South Worcestershire CCG;32;290 800;184;Midlands and East;West Mercia PCT Cluster;7,07
+99G;NHS Southend CCG;41;185 200;107;Midlands and East;South Essex PCT Cluster;4,23
+04R;NHS Southern Derbyshire CCG;59;524 900;306;Midlands and East;Derbyshire PCT Cluster;13,02
+05V;NHS Stafford and Surrounds CCG;15;144 000;92;Midlands and East;Staffordshire Cluster;3,52
+05W;NHS Stoke on Trent CCG;57;279 600;165;Midlands and East;Staffordshire Cluster;6,69
+05X;NHS Telford & Wrekin CCG;22;170 400;108;Midlands and East;West Mercia PCT Cluster;4,18
+07G;NHS Thurrock CCG;36;160 900;95;Midlands and East;South Essex PCT Cluster;4,11
+05Y;NHS Walsall CCG;67;269 200;169;Midlands and East;Black Country PCT Cluster;6,4
+05H;NHS Warwickshire North CCG;28;182 600;120;Midlands and East;Arden PCT Cluster;4,46
+07H;NHS West Essex CCG;39;288 500;177;Midlands and East;North Essex PCT Cluster;7
+04V;NHS West Leicestershire CCG;51;365 900;225;Midlands and East;Leicestershire PCT Cluster;9,13
+07J;NHS West Norfolk CCG;23;163 000;100;Midlands and East;NHS Norfolk and Waveney;4,03
+07K;NHS West Suffolk CCG;26;234 800;125;Midlands and East;Suffolk PCT Cluster;5,83
+06A;NHS Wolverhampton CCG;56;258 000;158;Midlands and East;Black Country PCT Cluster;6,1
+06D;NHS Wyre Forest CCG;13;112 100;68;Midlands and East;West Mercia PCT Cluster;2,74
+02N;NHS Airedale, Wharfedale and Craven CCG;17;155 600;97;North;Airedale, Bradford and Leeds Cluster;3,7
+02P;NHS Barnsley CCG;46;245 900;147;North;South Yorkshire and Bassetlaw PCT Cluster;6,03
+02Q;NHS Bassetlaw CCG;12;111 200;70;North;South Yorkshire and Bassetlaw PCT Cluster;2,76
+00Q;NHS Blackburn with Darwen CCG;31;167 700;91;North;Pan Lancashire PCT Cluster;3,89
+00R;NHS Blackpool CCG;25;172 300;94;North;Pan Lancashire PCT Cluster;3,99
+00T;NHS Bolton CCG;51;294 600;175;North;Greater Manchester PCT Cluster;6,93
+02W;NHS Bradford City CCG;29;118 000;41;North;Airedale, Bradford and Leeds Cluster;2,78
+02R;NHS Bradford Districts CCG;42;327 900;198;North;Airedale, Bradford and Leeds Cluster;7,74
+00V;NHS Bury CCG;35;195 000;120;North;Greater Manchester PCT Cluster;4,72
+02T;NHS Calderdale CCG;29;212 100;129;North;Calderdale Kirklees and Wakefield PCT Cluster;5,16
+00W;NHS Central Manchester CCG;42;211 800;87;North;Greater Manchester PCT Cluster;4,93
+00X;NHS Chorley and South Ribble CCG;31;172 500;101;North;Pan Lancashire PCT Cluster;4,3
+01H;NHS Cumbria CCG;90;525 800;325;North;Cumbria PCT Cluster;12,84
+00C;NHS Darlington CCG;12;105 600;63;North;NHS County Durham and Darlington PCT Cluster;2,51
+02X;NHS Doncaster CCG;44;307 800;193;North;South Yorkshire and Bassetlaw PCT Cluster;7,46
+00D;NHS Durham Dales, Easington and Sedgefield CCG;42;287 400;177;North;NHS County Durham and Darlington PCT Cluster;7,02
+01A;NHS East Lancashire CCG;65;370 800;246;North;Pan Lancashire PCT Cluster;8,98
+02Y;NHS East Riding of Yorkshire CCG;38;300 400;196;North;Humber PCT Cluster;7,53
+01C;NHS Eastern Cheshire CCG;23;201 000;122;North;Cheshire PCT Cluster;4,92
+02M;NHS Fylde & Wyre CCG;21;151 600;109;North;Pan Lancashire PCT Cluster;3,77
+00F;NHS Gateshead CCG;35;205 800;126;North;NHS South of Tyne and Wear PCT Cluster;4,92
+03A;NHS Greater Huddersfield CCG;41;237 800;144;North;Calderdale Kirklees and Wakefield PCT Cluster;5,73
+01E;NHS Greater Preston CCG;35;211 700;129;North;Pan Lancashire PCT Cluster;5,09
+01F;NHS Halton CCG;18;128 000;79;North;Merseyside PCT Cluster;2,98
+03D;NHS Hambleton, Richmondshire and Whitby CCG;23;141 600;92;North;North Yorkshire and York PCT Cluster;3,45
+03E;NHS Harrogate and Rural District CCG;19;160 100;104;North;North Yorkshire and York PCT Cluster;3,79
+00K;NHS Hartlepool and Stockton-on-Tees CCG;42;287 000;175;North;NHS Tees PCT Cluster;7,17
+01D;NHS Heywood, Middleton & Rochdale CCG;39;223 200;135;North;Greater Manchester PCT Cluster;5,18
+03F;NHS Hull CCG;59;288 700;163;North;Humber PCT Cluster;7,13
+01J;NHS Knowsley CCG;34;161 100;99;North;Merseyside PCT Cluster;3,8
+01K;NHS Lancashire North CCG;13;158 900;97;North;Pan Lancashire PCT Cluster;3,93
+02V;NHS Leeds North CCG;32;200 000;133;North;Airedale, Bradford and Leeds Cluster;4,98
+03G;NHS Leeds South and East CCG;44;257 700;145;North;Airedale, Bradford and Leeds Cluster;6,42
+03C;NHS Leeds West CCG;39;355 700;198;North;Airedale, Bradford and Leeds Cluster;8,86
+99A;NHS Liverpool CCG;96;491 200;291;North;Merseyside PCT Cluster;11,39
+00G;NHS Newcastle North and East CCG;18;152 200;83;North;NHS North of Tyne PCT Cluster;3,7
+00H;NHS Newcastle West CCG;18;130 900;90;North;NHS North of Tyne PCT Cluster;3,19
+00J;NHS North Durham CCG;32;246 300;143;North;NHS County Durham and Darlington PCT Cluster;6,02
+03H;NHS North East Lincolnshire CCG;32;167 200;107;North;Humber PCT Cluster;4,03
+03J;NHS North Kirklees CCG;32;183 800;116;North;Calderdale Kirklees and Wakefield PCT Cluster;4,43
+03K;NHS North Lincolnshire CCG;24;168 400;100;North;Humber PCT Cluster;4,15
+01M;NHS North Manchester CCG;40;183 200;78;North;Greater Manchester PCT Cluster;4,28
+99C;NHS North Tyneside CCG;29;215 300;129;North;NHS North of Tyne PCT Cluster;5,26
+00L;NHS Northumberland CCG;46;321 800;199;North;NHS North of Tyne PCT Cluster;7,86
+00Y;NHS Oldham CCG;49;239 600;144;North;Greater Manchester PCT Cluster;5,7
+03L;NHS Rotherham CCG;40;254 800;166;North;South Yorkshire and Bassetlaw PCT Cluster;6,19
+01G;NHS Salford CCG;56;247 600;144;North;Greater Manchester PCT Cluster;6,08
+03M;NHS Scarborough and Ryedale CCG;17;118 000;69;North;North Yorkshire and York PCT Cluster;2,83
+03N;NHS Sheffield CCG;95;566 900;339;North;South Yorkshire and Bassetlaw PCT Cluster;13,95
+01R;NHS South Cheshire CCG;18;173 200;109;North;Cheshire PCT Cluster;4,24
+01N;NHS South Manchester CCG;26;165 100;94;North;Greater Manchester PCT Cluster;3,84
+00M;NHS South Tees CCG;50;288 800;180;North;NHS Tees PCT Cluster;6,94
+01T;NHS South Sefton CCG;33;156 200;113;North;Merseyside PCT Cluster;3,7
+00N;NHS South Tyneside CCG;30;154 900;103;North;NHS South of Tyne and Wear PCT Cluster;3,81
+01V;NHS Southport and Formby CCG;21;122 000;77;North;Merseyside PCT Cluster;3
+01X;NHS St Helens CCG;37;192 600;118;North;Merseyside PCT Cluster;4,77
+01W;NHS Stockport CCG;53;299 000;190;North;Greater Manchester PCT Cluster;7,26
+00P;NHS Sunderland CCG;55;284 700;188;North;NHS South of Tyne and Wear PCT Cluster;6,93
+01Y;NHS Tameside and Glossop CCG;43;240 300;162;North;Greater Manchester PCT Cluster;5,83
+02A;NHS Trafford CCG;39;233 100;138;North;Greater Manchester PCT Cluster;5,49
+03Q;NHS Vale of York CCG;36;337 500;204;North;North Yorkshire and York PCT Cluster;8,35
+02D;NHS Vale Royal CCG;13;102 100;64;North;Cheshire PCT Cluster;2,45
+03R;NHS Wakefield CCG ;40;352 100;209;North;Calderdale Kirklees and Wakefield PCT Cluster;8,69
+02E;NHS Warrington CCG;30;207 900;125;North;Cheshire PCT Cluster;5,15
+02F;NHS West Cheshire CCG;37;253 100;147;North;Cheshire PCT Cluster;6,07
+02G;NHS West Lancashire CCG;24;112 000;73;North;Pan Lancashire PCT Cluster;2,73
+02H;NHS Wigan Borough CCG;65;320 300;200;North;Greater Manchester PCT Cluster;7,8
+12F;NHS Wirral CCG;62;332 900;207;North;Cheshire PCT Cluster;7,79
+09C;NHS Ashford CCG;16;121 600;67;South;Kent and Medway PCT Cluster;2,98
+10Y;NHS Aylesbury Vale CCG;21;197 100;122;South;Oxfordshire and Buckinghamshire PCT Cluster;4,94
+11E;NHS Bath and North East Somerset CCG;28;195 200;115;South;Bath and North East Somerset, Wiltshire PCT Cluster;4,67
+10G;NHS Bracknell and Ascot CCG;15;135 100;84;South;Berkshire West and Berkshire East PCT Cluster;3,43
+09D;NHS Brighton & Hove CCG;48;299 400;167;South;Sussex PCT Cluster;6,67
+11H;NHS Bristol CCG;58;470 400;252;South;Bristol, North Somerset, South Gloucestershire PCT Cluster;11,29
+10J;NHS North Hampshire CCG;22;212 400;131;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;5,18
+09E;NHS Canterbury and Coastal CCG;23;210 000;121;South;Kent and Medway PCT Cluster;5,12
+10H;NHS Chiltern CCG;38;325 900;195;South;Oxfordshire and Buckinghamshire PCT Cluster;7,7
+09G;NHS Coastal West Sussex CCG;59;482 300;298;South;Sussex PCT Cluster;11,93
+09H;NHS Crawley CCG;13;124 000;65;South;Sussex PCT Cluster;3,11
+09J;NHS Dartford, Gravesham and Swanley CCG;39;248 400;149;South;Kent and Medway PCT Cluster;6,12
+11J;NHS Dorset CCG;103;763 400;445;South;Bournemouth and Poole, Dorset PCT Cluster;17,96
+09L;NHS East Surrey CCG;20;169 900;105;South;Surrey PCT Cluster;4,21
+09F;NHS Eastbourne, Hailsham and Seaford CCG;23;183 400;110;South;Sussex PCT Cluster;4,44
+10K;NHS Fareham and Gosport CCG;21;198 600;127;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;4,88
+11M;NHS Gloucestershire CCG;86;611 300;367;South;Gloucestershire, Swindon PCT Cluster;14,97
+09N;NHS Guildford and Waverley CCG;23;214 100;126;South;Surrey PCT Cluster;5,25
+09P;NHS Hastings & Rother CCG;35;182 600;110;South;Sussex PCT Cluster;4,44
+99K;NHS High Weald Lewes Havens CCG;22;163 100;102;South;Sussex PCT Cluster;4,01
+09X;NHS Horsham and Mid Sussex CCG;23;222 500;138;South;Sussex PCT Cluster;5,4
+10L;NHS Isle of Wight CCG;18;141 200;89;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;3,52
+11N;NHS Kernow CCG;71;553 500;328;South;Cornwall and Isles Of Scilly PCT Cluster;13,63
+09W;NHS Medway CCG;61;281 600;176;South;Kent and Medway PCT Cluster;7,01
+10M;NHS Newbury and District CCG;11;112 900;65;South;Berkshire West and Berkshire East PCT Cluster;2,76
+10N;NHS North & West Reading CCG;10;106 000;64;South;Berkshire West and Berkshire East PCT Cluster;2,4
+99M;NHS North East Hampshire and Farnham CCG;24;215 600;128;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;5,08
+11T;NHS North Somerset CCG;26;210 100;124;South;Bristol, North Somerset, South Gloucestershire PCT Cluster;5,37
+09Y;NHS North West Surrey CCG;43;349 500;214;South;Surrey PCT Cluster;8,46
+99P;NHS North, East, West Devon CCG;130;897 600;533;South;Devon, Plymouth, Torbay PCT Cluster;21,68
+10Q;NHS Oxfordshire CCG;84;685 100;395;South;Oxfordshire and Buckinghamshire PCT Cluster;15,94
+10R;NHS Portsmouth CCG;28;215 700;123;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;5,17
+10T;NHS Slough CCG;16;140 500;78;South;Berkshire West and Berkshire East PCT Cluster;3,26
+11X;NHS Somerset CCG;76;540 500;327;South;Somerset PCT Cluster;13,19
+99Q;NHS South Devon and Torbay CCG;37;285 500;173;South;Devon, Plymouth, Torbay PCT Cluster;6,81
+10V;NHS South Eastern Hampshire CCG;30;208 400;133;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;4,94
+12A;NHS South Gloucestershire CCG;27;257 600;162;South;Bristol, North Somerset, South Gloucestershire PCT Cluster;6,45
+10A;NHS South Kent Coast CCG;33;199 200;120;South;Kent and Medway PCT Cluster;4,69
+10W;NHS South Reading CCG;20;125 300;61;South;Berkshire West and Berkshire East PCT Cluster;2,78
+10X;NHS Southampton CCG;37;264 800;146;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;6,28
+99H;NHS Surrey Downs CCG;36;290 300;172;South;Surrey PCT Cluster;7,02
+10C;NHS Surrey Heath CCG;9;90 500;60;South;Surrey PCT Cluster;2,15
+10D;NHS Swale CCG;22;105 400;60;South;Kent and Medway PCT Cluster;2,68
+12D;NHS Swindon CCG;27;219 200;123;South;Gloucestershire, Swindon PCT Cluster;5,29
+10E;NHS Thanet CCG;20;140 200;84;South;Kent and Medway PCT Cluster;3,32
+11A;NHS West Hampshire CCG;54;536 800;332;South;Southampton, Hampshire, Isle of Wight and Portsmouth PCT Cluster;13,09
+99J;NHS West Kent CCG;65;463 800;271;South;Kent and Medway PCT Cluster;11,49
+99N;NHS Wiltshire CCG;66;468 200;281;South;Bath and North East Somerset, Wiltshire PCT Cluster;11,38
+11C;NHS Windsor, Ascot and Maidenhead CCG;20;148 600;84;South;Berkshire West and Berkshire East PCT Cluster;3,58
+11D;NHS Wokingham CCG;14;153 200;100;South;Berkshire West and Berkshire East PCT Cluster;3,94
